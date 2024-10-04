@@ -1,4 +1,4 @@
-# Ciphers Program
+# Ciphers Program🔒
 
 This C++ program provides encryption and decryption using two popular cipher techniques: Caesar Cipher and Vigenère Cipher. It also includes functionality for automated decryption of Caesar Cipher using a dictionary-based approach to find potential valid plaintext.
 
