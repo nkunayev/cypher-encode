@@ -7,7 +7,7 @@ This C++ program provides encryption and decryption using two popular cipher tec
 - Caesar Cipher Encryption: Rotate each letter in a text by a specified number of positions.
 - Caesar Cipher Decryption: Attempt to decrypt a Caesar Cipher by testing all possible rotations and comparing against a dictionary.
 - Vigenère Cipher Encryption: Encrypt text using a keyword to apply a sequence of Caesar shifts.
-- Dictionary Check: The program uses a dictionary file (dictionary.txt) to validate words for automatic Caesar Cipher decryption.
+- Dictionary Check: The program uses a dictionary file to validate words for automatic Caesar Cipher decryption.
 
 ### Input Format
 
